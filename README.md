@@ -1,4 +1,3 @@
-### README
 
 # Turn-Based Card Game with Tiers
 
