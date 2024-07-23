@@ -69,47 +69,6 @@ Run the script:
 python card_game.py
 ```
 
-Follow the prompts to enter the number of players and play the game.
-
-## Example Output
-
-```
-=============================
-Bienvenido al Juego de Cartas
-=============================
-
-Cantidad de jugadores (2 a 6): 3
-
-Jugador 1:  3 de Oros         5 de Espadas      1 de Bastos     
-Jugador 2:  7 de Espadas      12 de Copas       10 de Bastos    
-Jugador 3:  2 de Copas        4 de Bastos       1 de Oros       
-
-========
-Ronda 1
-========
-
-Jugador 1
-Tus cartas son: 3 de Oros, 5 de Espadas, 1 de Bastos
-Elige una carta para tirar: 1 de Bastos
-
-< Jugador 1 tira 1 de Bastos >
-
-Jugador 2
-Tus cartas son: 7 de Espadas, 12 de Copas, 10 de Bastos
-Elige una carta para tirar: 7 de Espadas
-
-< Jugador 2 tira 7 de Espadas >
-
-Jugador 3
-Tus cartas son: 2 de Copas, 4 de Bastos, 1 de Oros
-Elige una carta para tirar: 1 de Oros
-
-< Jugador 3 tira 1 de Oros >
-
-El ganador de la ronda 1 es el: Jugador 2
-...
-¡El ganador final es el Jugador 2 con 2 rondas ganadas!
-```
 
 Enjoy the game!
 
