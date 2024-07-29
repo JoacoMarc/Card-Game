@@ -1,34 +1,40 @@
-
-# Turn-Based Card Game with Tiers
+# 🃏 Turn-Based Card Game with Tiers 🎴
 
 ## Introduction
 
-This repository contains a simple implementation of a turn-based card game, inspired by the traditional card game "Truco". The game is designed for 2 to 6 players and includes a ranking system for the cards. The game logic is written in Python and utilizes the `colorama` library for colored terminal output.
+Welcome to our turn-based card game inspired by the traditional "Truco" game! This game is designed for 2 to 6 players and includes a ranking system for the cards. The game logic is written in Python and utilizes the `colorama` library for colored terminal output.
 
 ## Game Rules
 
-1. **Players**: The game supports 2 to 6 players.
-2. **Cards**: The deck consists of 40 cards (1-7, 10-12) from four suits: Oros, Copas, Bastos, and Espadas. The cards 8 and 9 are not used.
-3. **Card Hierarchy**:
-   - 1 de Espadas (Highest)
-   - 1 de Bastos
-   - 7 de Espadas
-   - 7 de Oros
-   - 3 of any suit
-   - 2 of any suit
-   - 1 de Copas and 1 de Oros
-   - 12 of any suit
-   - 11 of any suit
-   - 10 of any suit
-   - 7 de Copas and 7 de Bastos
-   - 6 of any suit
-   - 5 of any suit
-   - 4 of any suit
-4. **Rounds**: The game is played in rounds. Each player gets 3 cards per round. The player with the highest-ranking card wins the round.
-5. **Winning the Game**:
-   - A player who wins 2 rounds is declared the winner.
-   - If different players win the first two rounds, a third round is played to determine the winner.
-   - If there is a tie in the number of rounds won after the third round, the game is declared a tie between those players.
+### Players
+👥 The game supports 2 to 6 players.
+
+### Cards
+🃏 The deck consists of 40 cards (1-7, 10-12) from four suits: Oros, Copas, Bastos, and Espadas. The cards 8 and 9 are not used.
+
+### Card Hierarchy
+1️⃣ **1 de Espadas** (Highest)
+2️⃣ **1 de Bastos**
+3️⃣ **7 de Espadas**
+4️⃣ **7 de Oros**
+5️⃣ **3** of any suit
+6️⃣ **2** of any suit
+7️⃣ **1 de Copas** and **1 de Oros**
+8️⃣ **12** of any suit
+9️⃣ **11** of any suit
+🔟 **10** of any suit
+7️⃣ **7 de Copas** and **7 de Bastos**
+6️⃣ **6** of any suit
+5️⃣ **5** of any suit
+4️⃣ **4** of any suit
+
+### Rounds
+🔄 The game is played in rounds. Each player gets 3 cards per round. The player with the highest-ranking card wins the round.
+
+### Winning the Game
+🏆 A player who wins 2 rounds is declared the winner.
+🏅 If different players win the first two rounds, a third round is played to determine the winner.
+🤝 If there is a tie in the number of rounds won after the third round, the game is declared a tie between those players.
 
 ## How to Play
 
@@ -68,9 +74,6 @@ Run the script:
 python card_game.py
 ```
 
-
-Enjoy the game!
+Enjoy the game! 🎉
 
 ---
-
-Feel free to modify and extend the code as needed. Contributions are welcome!
