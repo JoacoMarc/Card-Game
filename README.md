@@ -1,4 +1,4 @@
-# 🃏 Turn-Based Card Game with Tiers 🎴
+# 🃏 Turn-Based Card Game with Tiers 
 
 ## Introduction
 
